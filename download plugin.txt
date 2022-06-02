@@ -1,0 +1,8 @@
+https://cdnout.com/cdn/Swiper@6.4.1/
+https://owlcarousel2.github.io/OwlCarousel2/
+https://i-like-robots.github.io/EasyZoom/
+https://openplanning.net/11745/bootstrap
+https://www.w3schools.com/bootstrap/bootstrap_templates.asp
+https://jquery.com/
+
+
